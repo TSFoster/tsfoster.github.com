@@ -1,3 +1,3 @@
-# My Github Pages site
+# GitHub Pages Site
 
-<http://tsfoster.github.com>
+<https://tsfoster.github.io>
